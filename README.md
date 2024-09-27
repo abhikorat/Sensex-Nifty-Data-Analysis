@@ -1,4 +1,4 @@
-# Sensex-Nifty-50-Data-Analysis
+# Sensex-Nifty 50-Data-Analysis
 
 Conducted an in-depth analysis of historical Nifty 50 and Sensex data spanning 20 years.<br>
 Utilized advanced Excel techniques for data cleaning, manipulation, and analysis.<br>
